@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "445927681147",
+    "firebase_url": "https://thread-9e01f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "thread-9e01f",
+    "storage_bucket": "thread-9e01f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445927681147:android:897f1a7b60dccde85b06de",
+        "android_client_info": {
+          "package_name": "com.example.threads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ1ecqnkzrNb7JJjLQ7-F-4zpNHD3iLNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
